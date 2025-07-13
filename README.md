@@ -83,7 +83,7 @@ Analyze sales, inventory, and wastage data to uncover:
 
 **Bharadwaj Duvvuru**  
 *Freelance Data Analyst | BI Developer | SQL + Power BI Specialist*  
-📫 Duvvurubharadwaj@email.com  
+📫 Duvvurubharadwaj@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/bharadwaj-0934442b5/)
 
 ---
